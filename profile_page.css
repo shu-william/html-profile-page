@@ -40,6 +40,10 @@
         color: azure;
         font-size: 1.4em;
     }
+        #signout:hover {
+            color: blue;
+            text-decoration: underline;
+        }
 
 #content {
     margin: 0% 10%;
